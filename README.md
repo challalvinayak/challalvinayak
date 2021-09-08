@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @challalvinayak
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning springboot application
+- 🌱 I’m currently learning springboot application, Java
 - 💞️ I’m looking to collaborate on health checker application
 - 📫 How to reach me mail me vinayvinnu7899a@gmail.com
 
